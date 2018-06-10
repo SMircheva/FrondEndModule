@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    background-color: #24437C;
+    font-size: 16px;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    float:right;
+    padding: 10px;
+    height: 20px;
+    line-height: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: capitalize;
+}
+
+.cta-btn {
+    background-color: #3DC1EF;
+    border: 1px solid #3DC1EF;
+    border-radius: 10px;
+}

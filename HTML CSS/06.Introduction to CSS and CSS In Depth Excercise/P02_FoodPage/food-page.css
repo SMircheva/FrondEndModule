@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+}
+
+header {
+    background: url("images/header.jpg") no-repeat center;
+    background-size: cover;
+    height: 150px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top:80px;
+}
+
+button {
+    border: 1px solid #ec5353;
+    border-radius: 15px;
+    color: #ec5353;
+    background: none;
+    padding: 7px 12px;
+}
+
+button:hover {
+    background-color: #ec5353;
+    color: #ffffff;
+}
