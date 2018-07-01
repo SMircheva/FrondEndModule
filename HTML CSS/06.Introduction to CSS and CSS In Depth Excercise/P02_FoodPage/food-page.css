@@ -8,10 +8,10 @@ body {
 header {
     background: url("images/header.jpg") no-repeat center;
     background-size: cover;
-    height: 150px;
+    height: 114px;
     color: #FFFFFF;
     text-align: center;
-    padding-top:80px;
+    padding-top: 35px;
 }
 
 button {
@@ -25,4 +25,18 @@ button {
 button:hover {
     background-color: #ec5353;
     color: #ffffff;
+    cursor: pointer;
+}
+
+.content {
+    width: 70%;
+    float: left;
+}
+img {
+    width: 100%;
+}
+
+aside {
+    width: 25%;
+    float: right;
 }

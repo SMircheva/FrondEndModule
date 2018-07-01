@@ -4,7 +4,7 @@ body {
 article {
     width: 550px;
     border-radius: 15px;
-    text-align: center;
+    margin: 0 auto;
     padding: 25px;
     background-color: #fafafa;
     box-shadow: 10px 11px 35px -14px;
@@ -13,11 +13,15 @@ h1 {
     margin-bottom: 0;
     padding: 10px;
     letter-spacing: 5px;
+    text-align: center;
 }
-image {
+img {
     width: 200px;
     border-radius: 50%;
     margin: 15px;
     border: 5px dotted #8b603d;
     float: left;
+}
+p {
+    text-align: justify;
 }

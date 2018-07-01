@@ -9,5 +9,51 @@ body {
 
 main {
     background: url("images/food-image-bg.png") no-repeat center;
-    height: 500px;
+    margin: 0 auto;
+    height: 600px;
+    width: 1130px;
+
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin: 40px 260px 0 0;
+    float: right;
+}
+.recipies-info {
+    display: inline-block;
+    float: left;
+    margin: 30px 0 0 90px;
+}
+
+.recipies-info p {
+    display: inline-block;
+    margin: 5px 15px;
+}
+
+.recipies-info p span {
+    color: #B5C640;
+}
+button {
+    background: none;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 15px;
+    border: 2px solid white;
+    margin: 20px 0 0 300px;
+}
+
+button:hover {
+    background-color: #B5C640;
+    border: 2px solid #B5C640;
+}
+
+.prep-steps {
+    list-style: none;
+    width: 60%;
+    float: right;
+}
+ul li {
+    margin-top: 25px;
 }
