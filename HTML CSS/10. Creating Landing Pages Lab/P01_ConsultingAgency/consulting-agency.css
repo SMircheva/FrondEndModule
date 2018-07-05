@@ -76,4 +76,199 @@ button i {
 
 button:hover {
     cursor: pointer;
+    color: #080820;
+    background-color: #BE9662;
+}
+
+button:hover i {
+    color: #080820;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 900;
+}
+
+h3  {
+    font-weight: 900;
+}
+
+#industries {
+    padding: 40px;
+    text-align: center;
+}
+
+#first-row article, #second-row article {
+    width: 30%;
+    display: inline-block;
+    text-align: left;
+    margin: 0 15px;
+}
+
+#first-row article i, #first-row article i {
+    color: white;
+    background-color: #080820;
+    padding: 10px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+    margin-top: 21px;
+}
+
+#first-row article p, #second-row article p {
+    margin-left: 57px;
+}
+
+#sales-pitch {
+    background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)),
+            url("images/steel-bg.jpg");
+    background-size: cover;
+
+}
+#sales-pitch p {
+    width: 30%;
+    margin: 0 auto;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 40px 0;
+    text-align: center;
+    color: black;
+}
+
+#sales-pitch p::first-line {
+    color: #BE9662;
+    text-shadow: 1px 1px 3px rgba(150, 150, 150, 0.6)
+}
+
+#why-us {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+            url("images/background-choose-us.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+#why-us h2 {
+    margin-top: 0;
+    padding-top: 50px;
+    margin-bottom: 0;
+}
+
+#why-us article {
+    display: inline-block;
+    width: 24%;
+    border: 2px solid #BE9662;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 20px 20px 40px 20px;
+}
+
+#why-us article p {
+    text-align: left;
+}
+
+#testimonial {
+    background: url("images/consulting-woman.jpg");
+    background-size: cover;
+    height: 500px;
+}
+
+#testimonial > article {
+    width: 38%;
+    background: rgba(255,255,255, 0.8);
+    position: relative;
+    left: 58%;
+    padding-bottom: 40px;
+    top: 30px;
+}
+
+#testimonial > article > p {
+    margin-top: 0;
+    padding: 70px 35px 10px 35px;
+}
+
+#nested-article {
+    background: #080820;
+    width: 88%;
+    margin: 0 auto;
+    color: #ffffff;
+    padding-bottom: 200px;
+}
+
+#nested-article h2 {
+    text-align: left;
+    margin: 0;
+    padding: 0 20px;
+}
+
+#nested-article p {
+    text-align: right;
+    padding: 20px 20px 0 20px;
+    font-size: 12px;
+}
+#partners {
+    text-align: center;
+}
+
+#partners img {
+    display: inline-block;
+    height: 70px;
+    width: 130px;
+    margin: 20px 10px;
+}
+
+footer {
+    background: #080820;
+    color: white;
+    text-align: center;
+}
+
+footer span i {
+    color: #080820;
+    background-color: #82828F;
+    border-radius: 50%;
+    padding: 8px;
+    margin: 8px;
+}
+
+footer article {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    text-align: left;
+}
+
+footer article ul {
+    display: inline-block;
+    float: left;
+    padding-right: 20px;
+    list-style-type: none;
+    line-height: 30px;
+}
+
+footer article ul a {
+    text-decoration: none;
+    color: #BE9662;
+}
+
+#consulting {
+    margin-right: 10%;
+}
+
+#consulting p {
+    margin-bottom: 25px;
+}
+
+#instagram-widget {
+    margin-left: 10%;
+}
+
+#instagram-widget img {
+    width: 30%;
+    margin: 0;
+    padding: 0;
+}
+
+footer article p, footer article div, footer article ul {
+    padding-left: 30px;
 }
