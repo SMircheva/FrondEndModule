@@ -1,6 +1,6 @@
 function addItem() {
     let newItemText = document.getElementById('newText').value;
-    if (newItemText == '') {
+    if (newItemText === '') {
         return;
     }
     let li = document.createElement('li');
