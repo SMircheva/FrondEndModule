@@ -8,3 +8,33 @@ header {
     text-align: center;
     margin: 15px;
 }
+
+#employeesTable_length {
+    margin: 10px 0 25px 10px;
+}
+
+input {
+    margin: 10px 10px 25px 0;
+    border-radius: 7px;
+    border: 2px solid #aaa;
+    padding: 5px;
+}
+
+#employeesTable_wrapper {
+    border: 2px solid #aaa;
+    padding: 7px 0;
+    border-radius: 9px;
+}
+
+thead, tfoot {
+    background-color: #AAAAAA;
+    text-align: left;
+}
+
+#employeesTable_info {
+    margin: 10px 0 15px 10px;
+}
+
+#employeesTable_paginate {
+    margin: 10px 10px 15px 0;
+}
