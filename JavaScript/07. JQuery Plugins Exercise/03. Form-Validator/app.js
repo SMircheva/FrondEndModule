@@ -3,9 +3,27 @@ $.validate({
 });
 
 $('#bold-btn').on('click', boldText);
+let isBold = false;
 
 function boldText() {
-    let textInput = $('#text-input');
+    if (isBold) {
+        $('#text-input').css('font-weight', '');
+        isBold = false;
+    } else {
+        $('#text-input').css('font-weight', 'bold');
+        isBold = true;
+    }
+}
 
-    if(textInput.value)
+$('#italic-btn').on('click', italicText);
+let isItalic = false;
+
+function italicText() {
+    if (isItalic) {
+        $('#text-input').css('font-style', '');
+        isItalic = false;
+    } else {
+        $('#text-input').css('font-style', 'italic');
+        isItalic = true;
+    }
 }

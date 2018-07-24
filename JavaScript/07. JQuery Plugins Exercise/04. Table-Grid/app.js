@@ -1,3 +1,5 @@
 $(document).ready( function () {
-    $('#employeesTable').DataTable();
+    $('#employeesTable').DataTable({
+        ordering:  false
+    });
 } );

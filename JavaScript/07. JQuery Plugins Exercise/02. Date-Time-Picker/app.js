@@ -1,1 +1,1 @@
-$('#producedOn').datetimepicker();
+jQuery('#producedOn').datetimepicker();
