@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02. Date-Time-Picker/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -23,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02. Date-Time-Picker/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -161,12 +161,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532256494015</updated>
       <workItem from="1532256498335" duration="10541000" />
-      <workItem from="1532373686307" duration="3548000" />
+      <workItem from="1532373686307" duration="4054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14089000" />
+    <option name="totallyTimeSpent" value="14595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="684" y="42" width="817" height="766" extended-state="0" />
@@ -292,17 +292,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02. Date-Time-Picker/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02. Date-Time-Picker/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Date-Time-Picker/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="29" />
         </state>
       </provider>
     </entry>
