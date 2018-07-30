@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02. Date-Time-Picker/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -23,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02. Date-Time-Picker/app.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04. Table-Grid/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="34">
+              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -47,6 +47,7 @@
         <option value="$PROJECT_DIR$/04. Table-Grid/app.js" />
         <option value="$PROJECT_DIR$/02. Date-Time-Picker/index.html" />
         <option value="$PROJECT_DIR$/02. Date-Time-Picker/app.js" />
+        <option value="$USER_HOME$/Downloads/Homework-Exercise_ jQuery Plugins-611345/04. JavaScript-for-Front-End-JQuery-Plugins-Exercise-Resources/03. Form-Validator/italicandbold.js" />
       </list>
     </option>
   </component>
@@ -70,9 +71,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="855" />
-    <option name="y" value="52" />
-    <option name="width" value="1022" />
+    <option name="x" value="825" />
+    <option name="y" value="83" />
+    <option name="width" value="1220" />
     <option name="height" value="958" />
   </component>
   <component name="ProjectView">
@@ -91,37 +92,7 @@
             <path>
               <item name="07. JQuery Plugins Exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="07. JQuery Plugins Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="02. Date-Time-Picker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="07. JQuery Plugins Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07. JQuery Plugins Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="02. Date-Time-Picker" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="07. JQuery Plugins Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07. JQuery Plugins Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="02. Date-Time-Picker" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="DateTime Picker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="07. JQuery Plugins Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07. JQuery Plugins Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="02. Date-Time-Picker" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="DateTime Picker" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="07. JQuery Plugins Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07. JQuery Plugins Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="02. Date-Time-Picker" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="DateTime Picker" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="jquery.datetimepicker.full.js" type="620a8d5e:NestingTreeNode" />
+              <item name="04. Table-Grid" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,7 +103,7 @@
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../06. JQuery Plugins Demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../10.Bootstap Lab" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -161,18 +132,18 @@
       <option name="presentableId" value="Default" />
       <updated>1532256494015</updated>
       <workItem from="1532256498335" duration="10541000" />
-      <workItem from="1532373686307" duration="4054000" />
+      <workItem from="1532373686307" duration="5667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14595000" />
+    <option name="totallyTimeSpent" value="16208000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="684" y="42" width="817" height="766" extended-state="0" />
+    <frame x="660" y="67" width="976" height="766" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40384614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33546326" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -264,20 +235,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03. Form-Validator/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. Table-Grid/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04. Table-Grid/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -299,10 +256,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/Homework-Exercise_ jQuery Plugins-611345/04. JavaScript-for-Front-End-JQuery-Plugins-Exercise-Resources/03. Form-Validator/italicandbold.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Form-Validator/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02. Date-Time-Picker/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="20" column="29" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Table-Grid/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
