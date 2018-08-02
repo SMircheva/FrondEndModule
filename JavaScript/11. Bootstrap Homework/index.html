@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WELCOME TO BOOTSTRAP</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="index.html">WELCOME TO BOOTSTRAP</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="components.html">COMPONENTS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="blog.html">BLOG</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<section class="bgimage">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="text-center mt-5 font-weight-bold">Bootstrap</h1>
+                <p class="text-center subheading p-1">Front-end component library</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-5 offset-1 p-5">
+            <article>
+                <h2>
+                    Introduction to Bootstrap...
+                </h2>
+                <p>
+                    Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+                </p>
+            </article>
+        </div>
+        <div class="col-5 p-5">
+            <img src="img/01.png" alt="Bootstrap logo" class="img-thumbnail">
+        </div>
+        <div class="col-1"></div>
+    </div>
+    <div class="row">
+        <div class="col-5 offset-1 p-5">
+            <img src="img/02.jpg" alt="Bootstrap Grid system" class="img-thumbnail">
+        </div>
+        <div class="col-5 p-5">
+           <h2>
+               Bootstrap Grid System...
+           </h2>
+            <p>
+                Bootstrap’s grid system uses a series of containers, rows, and columns to layout and align content. It’s built with flexbox and is fully responsive. Below is an example and an in-depth look at how the grid comes together.
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-5 offset-1 p-5">
+            <h2>
+                Themes...
+            </h2>
+            <p>
+                Using the themes is as easy as downloading a CSS file and replacing the one that comes with Bootstrap. You can install as a package via npm with the command npm install bootswatch. You can also hotlink the themes via CDN at BootstrapCDN.
+            </p>
+        </div>
+        <div class="col-5 p-5">
+            <img src="img/03.png" alt="Bootstrap logo 2" class="img-thumbnail">
+        </div>
+    </div>
+</div>
+
+<footer class="page-footer font-small bg-dark pt-4 text-light">
+    <div class="footer-copyright text-center py-3">
+        Copyright © аntoniyaat 2018
+    </div>
+</footer>
+
+<!-- jQuery JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Bootstrap JS -->
+<script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
+
+</body>
+</html>

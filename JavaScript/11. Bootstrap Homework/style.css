@@ -1,0 +1,50 @@
+.bgimage {
+    width:100%;
+    height:300px;
+    background: url('img/bg-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.bgimage h1 {
+    color: #343A40;
+}
+
+h1 {
+    font-size: 60px;
+    padding-top: 55px;
+    color: #343A40;
+}
+
+.subheading {
+    font-size: 30px;
+}
+
+img {
+    width: 300px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 38px;
+    color: #343A40;
+}
+
+p {
+    color: #343A40;
+}
+
+.jumbo-dark {
+    background-color: #343A40;
+    color: #F8F9FA;
+}
+.jumbo-dark h2, .jumbo-dark p {
+    color: #F8F9FA;
+}
+
+
+.jumbo-light {
+    background-color: #F8F9FA;
+    color: #343A40;
+}
+
