@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+header {
+  font-family: 'Dancing Script', serif; }
+  header h1 {
+    font-size: 30px;
+    letter-spacing: 6px; }
+  header p {
+    font-size: 30px; }
+
+.h1 {
+  font-family: 'Dancing Script', serif; }
+
+img {
+  width: 300px; }
+
+.card-header {
+  text-align: center; }
+
+#projects {
+  background-image: linear-gradient(rgba(49, 49, 49, 0.7), rgba(49, 49, 49, 0.7)), url("../images/background-projects.jpg");
+  background-size: cover;
+  padding: 5%; }
