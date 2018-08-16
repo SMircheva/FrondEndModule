@@ -1,0 +1,28 @@
+form {
+    width: 40%;
+    min-width: 300px;
+    background-color: #F7F7F7;
+    margin: 20px auto;
+    padding: 35px;
+    border: 1px solid grey;
+    color: #83818A;
+}
+label {
+    display: block;
+    margin: 15px auto;
+}
+label > span {
+    float: left;
+}
+
+input, textarea {
+    width: 70%;
+}
+textarea {
+    resize: none;
+}
+
+label span {
+    display: inline-block;
+    width: 15%;
+}

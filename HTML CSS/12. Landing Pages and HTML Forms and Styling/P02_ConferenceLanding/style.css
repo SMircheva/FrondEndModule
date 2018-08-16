@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+}
+
+header {
+    background: linear-gradient(rgba(79, 82, 91, 0.8), rgba(79, 82, 91, 0.8)),
+            url("img/header-bg.png");
+    height: 600px;
+    background-size: cover;
+    color: white;
+}
