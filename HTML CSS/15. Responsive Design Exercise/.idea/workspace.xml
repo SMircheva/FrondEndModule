@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b4f5d2a-d262-4f99-9ed5-98d43426dac1" name="Default" comment="" />
+    <list default="true" id="1e927f75-d66e-489a-817c-a0cfd4b42882" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,32 +14,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="flexbox-order.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/P01_Flexbox_Order/flexbox-order.css">
+      <file leaf-file-name="cars.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P05_Responsive_Cars/cars.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flexbox-order.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P01_Flexbox_Order/flexbox-order.html">
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/P05_Responsive_Cars/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="569">
+              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/P02_Contact_Form/contact-form.html" />
-        <option value="$PROJECT_DIR$/P02_Contact_Form/contact-form.css" />
-        <option value="$PROJECT_DIR$/P01_Flexbox_Order/flexbox-order.css" />
+        <option value="$PROJECT_DIR$/P01_Responsive_CV/responsive-cv.html" />
+        <option value="$PROJECT_DIR$/P01_Responsive_CV/styles.css" />
+        <option value="$PROJECT_DIR$/P01_Responsive_CV/responsive.css" />
+        <option value="$PROJECT_DIR$/P02_Creative-Lab/creative-lab.html" />
+        <option value="$PROJECT_DIR$/P02_Creative-Lab/responsive.css" />
+        <option value="$PROJECT_DIR$/P05_Responsive_Cars/cars.html" />
+        <option value="$PROJECT_DIR$/P05_Responsive_Cars/responsive.css" />
       </list>
     </option>
   </component>
@@ -59,49 +68,44 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1041" />
-    <option name="y" value="47" />
-    <option name="width" value="803" />
-    <option name="height" value="948" />
+    <option name="x" value="1170" />
+    <option name="y" value="7" />
+    <option name="width" value="672" />
+    <option name="height" value="1005" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="13. Responsive Design Lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="13. Responsive Design Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="15. Responsive Design Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="15. Responsive Design Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="13. Responsive Design Lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="13. Responsive Design Lab" type="462c0819:PsiDirectoryNode" />
-              <item name="P01_Flexbox_Order" type="462c0819:PsiDirectoryNode" />
+              <item name="15. Responsive Design Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="15. Responsive Design Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="P02_Creative-Lab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="13. Responsive Design Lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="13. Responsive Design Lab" type="462c0819:PsiDirectoryNode" />
-              <item name="P03_Bank_Credit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="13. Responsive Design Lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="13. Responsive Design Lab" type="462c0819:PsiDirectoryNode" />
-              <item name="P04_HR_Company" type="462c0819:PsiDirectoryNode" />
+              <item name="15. Responsive Design Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="15. Responsive Design Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="P05_Responsive_Cars" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../15. Responsive Design Exercise" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
@@ -123,23 +127,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b4f5d2a-d262-4f99-9ed5-98d43426dac1" name="Default" comment="" />
-      <created>1535204772496</created>
+      <changelist id="1e927f75-d66e-489a-817c-a0cfd4b42882" name="Default" comment="" />
+      <created>1535267020939</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1535204772496</updated>
-      <workItem from="1535204774261" duration="4320000" />
+      <updated>1535267020939</updated>
+      <workItem from="1535267022455" duration="9361000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4320000" />
+    <option name="totallyTimeSpent" value="9361000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="833" y="38" width="642" height="758" extended-state="0" />
+    <frame x="936" y="6" width="537" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23374341" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16489361" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -157,25 +161,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23459245" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info id="Favorites" order="0" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -184,31 +169,52 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/P02_Contact_Form/contact-form.html">
+    <entry file="file://$PROJECT_DIR$/P01_Responsive_CV/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="74" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+        <state relative-caret-position="182">
+          <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P02_Contact_Form/contact-form.css">
+    <entry file="file://$PROJECT_DIR$/P01_Responsive_CV/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="124" column="35" lean-forward="true" selection-start-line="124" selection-start-column="35" selection-end-line="124" selection-end-column="35" />
+        <state relative-caret-position="459">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P01_Flexbox_Order/flexbox-order.html">
+    <entry file="file://$PROJECT_DIR$/P01_Responsive_CV/responsive-cv.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="1" selection-end-line="2" />
+        <state relative-caret-position="85">
+          <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P01_Flexbox_Order/flexbox-order.css">
+    <entry file="file://$PROJECT_DIR$/P02_Creative-Lab/creative-lab.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P02_Creative-Lab/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P05_Responsive_Cars/cars.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P05_Responsive_Cars/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
         </state>
       </provider>
     </entry>

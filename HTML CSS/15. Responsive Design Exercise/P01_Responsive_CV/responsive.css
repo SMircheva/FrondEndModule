@@ -1,11 +1,30 @@
 @media screen and (max-width: 740px) {
-    /*TODO*/
+    #info, #photo {
+        float: none;
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
+    }
+    p {
+        padding-left: 0;
+    }
 }
 
 @media screen and (max-width: 570px) {
-    /*TODO*/
+    ul li {
+        display: inline-block;
+        width: 100px;
+    }
+
+    #skills-right > ul > li:nth-child(2) {
+        width: 140px;
+    }
 }
 
 @media screen and (max-width: 480px) {
-    /*TODO*/
+    ul li {
+        background: url(images/bullet.png) 0px 5px no-repeat;
+        padding-left: 24px;
+    }
 }

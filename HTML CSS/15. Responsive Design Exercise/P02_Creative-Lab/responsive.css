@@ -1,0 +1,42 @@
+@media screen and (max-width: 980px) {
+    body #wrapper {
+        width: 100%;
+    }
+    body #wrapper > header nav ul {
+        flex-flow: column;
+    }
+    body #wrapper > header nav ul li {
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    body #wrapper > header h1 a {
+        flex-flow: column;
+        margin: 20px auto;
+    }
+    body #wrapper > header > h1 > a > span {
+        padding: unset;
+        margin: auto;
+    }
+    body #wrapper > header > h1 > a > img {
+        padding: unset;
+        margin: auto;
+    }
+    body #wrapper > section {
+        width: 100%;
+    }
+    body #wrapper aside {
+        display: flex;
+        flex-flow: unset;
+        width: 100%;
+    }
+    body #wrapper > aside div {
+        margin: 0 5px 15px 5px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    body #wrapper aside {
+        flex-flow: column;
+    }
+}
