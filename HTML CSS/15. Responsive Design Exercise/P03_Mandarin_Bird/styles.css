@@ -45,8 +45,8 @@ header > h1 {
 header > p {
     font-size: 26px;
     margin: 20px auto;
-    color: white;
     text-align: center;
+    color: #f26013;
 }
 header > nav {
     background-color: #ffffff;
@@ -163,6 +163,7 @@ main > section > div > article > p {
 /*-------------------------------------------------*/
 footer{
     clear: both;
+    text-align: center;
 }
 footer p{
     color: white;

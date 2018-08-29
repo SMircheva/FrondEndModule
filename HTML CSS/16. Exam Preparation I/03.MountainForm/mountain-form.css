@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One|Source+Sans+Pro:400,900');
+body {
+    background-color: #F4FCFF;
+    margin: 0;
+    color: #002C3C;
+}
+
+h1 {
+    font-family: 'Francois One', sans-serif;
+    font-weight: bold;
+    /*border-bottom: 2px solid #31D47D;*/
+    display: inline-block;
+    margin: 20px auto;
+    letter-spacing: 6px;
+    font-size: 41px;
+    padding-left: 28px;
+}
+hr {
+    height: 2px;
+    background-color: #31D47D;
+    width: 23%;
+}
+header {
+    text-align: center;
+}
+form {
+    margin: 20px auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 24%;
+}
+label {
+    display: block;
+    margin: 10px 22px;
+}
+body > form > label:nth-child(7) {
+    margin: 10px 29px;
+}
+.required {
+    color: #F41668;
+}
+input {
+    width: 75%;
+    border: 1px solid #B4D6E2;
+    border-radius: 4px;
+    padding: 6px 30px;
+    outline: none;
+}
+i {
+    border-right: 1px solid #B4D6E2;
+    padding: 5px;
+    position: relative;
+    top: 2px;
+    left: 30px;
+    width: 13px;
+    text-align: center;
+}
+#sign-up {
+    background-color: #31D47D;
+    color: white;
+    width: unset;
+    padding: 8px 20px;
+    margin-top: 25px;
+    margin-left: 277px;
+    font-size: 14px;
+}

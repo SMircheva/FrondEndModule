@@ -1,0 +1,64 @@
+@media screen and (max-width: 479px) {
+    .best-place, .about-us {
+        padding-left: 20px;
+        height: unset;
+    }
+    .about-us {
+        height: 9em;
+        padding-top: 50px;
+    }
+    .about-us h1 {
+        font-size: 1.7em;
+    }
+
+    .about-us p {
+        width: unset;
+        display: inline;
+    }
+    .menu ul {
+        display: none;
+    }
+    .menu span {
+        margin-left: 0;
+    }
+    body .menu {
+        height: auto;
+        padding: 15px 0 25px 0;
+    }
+    .menu span::after {
+        content: '\2630';
+        margin: 0;
+        float: right;
+    }
+    .paragraph {
+        width: unset;
+    }
+    .views {
+        flex-direction: column;
+    }
+    .views img {
+        width: 100%;
+        margin: 10px 0;
+    }
+    #second-heading, .headings {
+        width: unset;
+        margin-top: 35px;
+    }
+    .info {
+        padding: 0 20px;
+    }
+    .why-us {
+        display: flex;
+        flex-direction: column;
+    }
+    article.extras {
+        width: unset;
+    }
+    .our-team {
+        flex-direction: column;
+        text-align: center;
+    }
+    .our-team article {
+        margin-right: 0;
+    }
+}

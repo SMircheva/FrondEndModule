@@ -1,1 +1,76 @@
-/*TODO*/
+@media screen and (max-width: 1200px) {
+    #wrapper {
+        width: 100%;
+    }
+    #wrapper > main, #wrapper > header {
+        width: 90%;
+    }
+    header > h1 {
+        font-size: 58px;
+        line-height: 50px;
+    }
+    header > p {
+        margin: 0 auto;
+        padding: 16px 0;
+    }
+    #wrapper > header > nav > ul {
+        margin-top: unset;
+    }
+    #wrapper > main > aside {
+        float: none;
+        width: 90%;
+    }
+    header nav > ul {
+        display: flex;
+        justify-content: space-around;
+    }
+    header nav > ul li {
+        width: unset;
+    }
+    main section {
+        margin: 40px auto;
+        float: none;
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    #wrapper header {
+        background-size: 180%;
+        background-position: top center;
+    }
+    #wrapper main section div div {
+        display: block;
+        float: none;
+        background-color: #BACD8B;
+        margin: unset;
+        height: 170px;
+    }
+    #wrapper > header > nav {
+        height: unset;
+    }
+    #wrapper > header {
+        border-bottom: none;
+    }
+    #wrapper header h1 {
+        font-size: 50px;
+        line-height: 45px;
+    }
+    #wrapper header p {
+        font-size: 22px;
+    }
+    #wrapper > header > nav > ul {
+        flex-direction: column;
+    }
+    #wrapper > main > section > div {
+        height: unset;
+        text-align: center;
+    }
+    #wrapper > main > section > div > article > p {
+        text-align: left;
+    }
+    aside h1, aside h2 {
+        text-align: center;
+    }
+
+}
